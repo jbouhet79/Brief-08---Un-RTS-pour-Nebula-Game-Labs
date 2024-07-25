@@ -1,11 +1,7 @@
-# Brief-08---Un-RTS-pour-Nebula-Game-Labs
-
-Pour lancer le projet :
-- Ouvrir le dossier
-- Lancer l'appli directement avec la touche F5 (possibilité offerte en rajoutant "console": "internalConsole" dans .vscode/{launch.json})
-
-````
 {
+    // Utilisez IntelliSense pour en savoir plus sur les attributs possibles.
+    // Pointez pour afficher la description des attributs existants.
+    // Pour plus d'informations, visitez : https://go.microsoft.com/fwlink/?linkid=830387
     "version": "0.2.0",
     "configurations": [
         {
@@ -24,10 +20,3 @@ Pour lancer le projet :
         }
     ]
 }
-````
-
-=> Les fonctionnalités appraissent dans le Main.java
-
-=> L'ensemble des actions réalisées par l'appli apparaissent alors dans la console de débogage.
-
-=> Dans Terminal/Problèmes appraissent en TODO les tâches à finaliser
